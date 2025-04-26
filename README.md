@@ -1,0 +1,1 @@
+# 14-1-use-inheritance-with-the-inventory-maintenance-application-solved
